@@ -1,6 +1,6 @@
 ---
-date: 2019-08-08T22:42:09Z
-title: Sunflower Sutra
+date: 2019-08-08T22:42:09.000+00:00
+title: Sunflower Sutra Peter
 author: Allen Ginsberg
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
@@ -11,7 +11,7 @@ Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought th
 
 ![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+2The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
 
 Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
 
